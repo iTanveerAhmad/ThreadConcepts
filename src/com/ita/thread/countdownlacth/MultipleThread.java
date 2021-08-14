@@ -45,7 +45,6 @@ public class MultipleThread {
         }
 
         System.out.println("completed.");
-
     }
 
 }
