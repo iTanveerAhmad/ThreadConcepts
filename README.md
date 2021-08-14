@@ -1,5 +1,5 @@
 # Thread-in-Java
-Basic Concept about Threading like
+Basic Concept of Advance Java Multithreading like
 1. Starting Threads
 2. Basic Thread Synchronization
 3. The Synchronized Keyword
