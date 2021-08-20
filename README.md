@@ -14,4 +14,3 @@ Basic Concept of Advance Java Multithreading like
 12. Semaphores
 13. Callable and Future
 14. Interrupting Threads
-15. Multithreading in Swing with SwingWorker
